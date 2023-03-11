@@ -1,0 +1,11 @@
+import:
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+window:
+  padding:
+    x: 10
+    y: 10
+
+font:
+  normal:
+    family: JetBrains Mono Medium
+  size: 10
