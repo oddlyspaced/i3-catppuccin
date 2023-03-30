@@ -35,7 +35,7 @@ exec --no-startup-id flameshot
 # exec --no-startup-id xrandr --output eDP1 --mode 1920x1080 --pos 0x0 --rotate normal --output HDMI1 --primary --mode 1920x1080 --pos 1920x0 --rotate normal --output VIRTUAL1 --off
 
 # only use external monitor
-exec --no-startup-id xrandr --output eDP1 --off --output HDMI1 --auto
+exec --no-startup-id xrandr --output eDP-1 --off --output HDMI-1 --auto
 
 # autostart
 exec --no-startup-id nitrogen --restore
